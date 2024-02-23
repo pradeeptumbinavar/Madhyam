@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Arial", Helvetica, sans-serif;
+}
+i{
+    font-size: 23px;
+    cursor: pointer;
+    transform: translate(-50%, -50%);
+}
